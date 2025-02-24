@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/54f68780-4d78-44cf-85ee-edb982e722ab)
 
-### Career
+### Work
 - Software Developer @ **SAP Canada**
 - iXp Software Developer @ **SAP Canada**
 - iXp Software Developer @ **SAP Canada**
