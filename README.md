@@ -1,6 +1,6 @@
 ## Info
 
-![Vancouver](https://github.com/user-attachments/assets/ff71676e-9d1f-46b5-8923-a56d0d659ac9)
+![Vancouver](https://github.com/user-attachments/assets/5955fb52-c664-43a2-af12-34a27229cf9a)
 
 ### Career
 - Software Developer @ **SAP Canada**
