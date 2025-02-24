@@ -27,7 +27,7 @@ _TODO_
     - Ryzen 9 & RTX 5090
   - Ubiquiti Infrastructure
     - 10G Switch & 802.11be AP
-  - > 30 minute UPS
+  - 30 minute UPS
 
 ---
 _You are the ![Visitor Count](https://profile-counter.glitch.me/nekeinno/count.svg)th visitor_
