@@ -11,5 +11,22 @@
 ### Education
 - B.Sc Software Systems @ **Simon Fraser University**
 
+### Home Lab
+
+_Current_
+- 2.5G Switch
+  - 802.11ax AP @ 4x4 160MHz
+  - Thunderbolt 4 Dock
+    - MBP M4 Pro
+  - Intel NUC11TNHi3
+    - NAS
+    - Wireguard
+  
+_TODO_
+  - Actual Server
+    - Ryzen 9 & RTX 5090
+  - Ubiquiti Infrastructure
+    - 10G Switch & 802.11be
+
 ---
 _You are the ![Visitor Count](https://profile-counter.glitch.me/nekeinno/count.svg)th visitor_
