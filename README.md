@@ -28,6 +28,3 @@ _TODO_
   - Ubiquiti Infrastructure
     - 10G Switch & 802.11be AP
   - 30 minute UPS
-
----
-_You are the ![Visitor Count](https://profile-counter.glitch.me/nekeinno/count.svg)th visitor_
