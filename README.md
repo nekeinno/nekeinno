@@ -1,6 +1,6 @@
 # About
 
-Currently 🇨🇦
+Born 🇨🇦 and eventually end up in ...
 
 ## System
 
