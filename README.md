@@ -1,5 +1,7 @@
 # About
 
+Currently 🇨🇦
+
 ## System
 
 - 💻 M4 Pro MacBook Pro 14c / 20c / 24 GB / 1 TB
