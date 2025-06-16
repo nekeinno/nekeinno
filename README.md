@@ -1,6 +1,6 @@
 # About
 
-Born 🇨🇦
+🇨🇦
 
 ## System
 
