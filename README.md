@@ -1,6 +1,6 @@
 # About
 
-Born 🇨🇦 and eventually end up in ...
+Born 🇨🇦
 
 ## System
 
