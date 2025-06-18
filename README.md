@@ -1,6 +1,7 @@
 # About
 
-🇨🇦
+currently 🇨🇦
+next ...
 
 ## System
 
